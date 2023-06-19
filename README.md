@@ -12,6 +12,7 @@
 <a href="https://linkedin.com/in/arshiya-kishore-2568801b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arshiya-kishore-2568801b9" height="30" width="40" /></a>
 <a href="https://kaggle.com/arshiyakishore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arshiyakishore" height="30" width="40" /></a>
 <a href="https://instagram.com/arshiyakishore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arshiyakishore" height="30" width="40" /></a>
+<a href="https://medium.com/@arshiyakishore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arshiyakishore" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,5 +24,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyaakishore&theme=dark" alt="arshiyaakishore" /></p>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiyaakishore&label=Profile%20views&color=b40e0e&style=flat" alt="arshiyaakishore" /> </p>
+

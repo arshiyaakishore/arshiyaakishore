@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiyaakishore&label=Views&color=fd3a3a&style=flat" alt="arshiyaakishore" /> </p>
 
 
-
 - 🌱 I’m currently learning **Machine Learning and Deep Learning.**
 
 - 📫 How to reach me **arshiyakishore@gmail.com**
@@ -27,6 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshiyaakishore&show_icons=true&theme=dark&hide_border=true&locale=en" alt="arshiyaakishore" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyaakishore&theme=dark" alt="arshiyaakishore" /></p>
+
 <h1 align="center">Hi 👋, I'm Arshiya Kishore</h1>
 <h3 align="center">A 21-year-old computer science student.</h3>
 

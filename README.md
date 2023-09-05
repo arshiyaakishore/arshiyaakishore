@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arshiya Kishore</h1>
 <h3 align="center">A 21-year-old computer science student.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshiyaakishore" alt="arshiyaakishore" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning.**
 
@@ -26,4 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyaakishore&theme=dark" alt="arshiyaakishore" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshiyaakishore" alt="arshiyaakishore" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiyaakishore&label=Profile%20views&color=b40e0e&style=flat" alt="arshiyaakishore" /> </p>

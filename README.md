@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arshiya Kishore</h1>
 <h3 align="center">A 21-year-old computer science student.</h3>
 
+
+
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Data Science.**
 
 - 📫 How to reach me **arshiyakishore@gmail.com**
@@ -13,6 +15,7 @@
 <a href="https://kaggle.com/arshiyakishore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arshiyakishore" height="30" width="40" /></a>
 <a href="https://instagram.com/arshiyakishore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arshiyakishore" height="30" width="40" /></a>
 <a href="https://medium.com/@arshiyakishore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arshiyakishore" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/arshiyakishore/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arshiyakishore/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

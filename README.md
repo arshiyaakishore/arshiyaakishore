@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arshiya Kishore</h1>
 <h3 align="center">A 21-year-old computer science student.</h3>
 
-
-
 - 👯 I’m looking to collaborate on **ML and Data Science Projects**
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Data Analytics.**
 

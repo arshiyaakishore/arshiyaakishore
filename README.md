@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arshiya Kishore</h1>
 <h3 align="center">A 21-year-old computer science student.</h3>
 
+
+
 - 👯 I’m looking to collaborate on **ML and Data Science Projects**
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Data Analytics.**
 
@@ -41,6 +43,7 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyaakishore&theme=dark" alt="arshiyaakishore" /></p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 <div align="center">
 <a href="https://github.com/arshiyaakishore">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arshiyaakishore&theme=2077" height="180em" />

@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arshiya Kishore</h1>
 <h3 align="center">A 21-year-old computer science student.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiyaakishore&label=Profile%20views&color=0e75b6&style=flat" alt="arshiyaakishore" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshiyaakishore&theme=" alt="arshiyaakishore" /></a> </p>
+
 
 - 👯 I’m looking to collaborate on **ML and Data Science Projects**
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Data Analytics.**
@@ -53,3 +52,5 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arshiyaakishore&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshiyaakishore&theme=2077" height="180em" />
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiyaakishore&label=Profile%20views&color=0e75b6&style=flat" alt="arshiyaakishore" /> </p>

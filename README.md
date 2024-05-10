@@ -24,9 +24,9 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshiyaakishore&show_icons=true&theme=dark&hide_border=true&locale=en" alt="arshiyaakishore" /></p>
-
+<break>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyaakishore&theme=dark" alt="arshiyaakishore" /></p>
-
+<break>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshiyaakishore" alt="arshiyaakishore" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiyaakishore&label=Profile%20views&color=fe3410&style=flat" alt="arshiyaakishore" /> </p>

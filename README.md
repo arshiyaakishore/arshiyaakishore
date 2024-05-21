@@ -20,10 +20,9 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arshiyaakishore&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="arshiyaakishore" /></p> <br>
 
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshiyaakishore&show_icons=true&theme=dark&hide_border=true&locale=en" alt="arshiyaakishore" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyaakishore&theme=dark" alt="arshiyaakishore" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyaakishore&theme=dark" alt="arshiyaakishore" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshiyaakishore" alt="arshiyaakishore" /></a> </p><br>
 
@@ -31,4 +30,4 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" /> </p> <br>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arshiyaakishore&label=Profile%20views&color=fe3410&style=flat" alt="arshiyaakishore" /> </p> <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiyaakishore&label=Profile%20views&color=fe3410&style=flat" alt="arshiyaakishore" /> </p> <br>

@@ -29,4 +29,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshiyaakishore" alt="arshiyaakishore" /></a> </p>
 
+
+<img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" />
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiyaakishore&label=Profile%20views&color=fe3410&style=flat" alt="arshiyaakishore" /> </p>

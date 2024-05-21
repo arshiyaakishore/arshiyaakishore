@@ -25,11 +25,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyaakishore&theme=dark" alt="arshiyaakishore" /></p>
 
-<p align="center""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshiyaakishore" alt="arshiyaakishore" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshiyaakishore" alt="arshiyaakishore" /></a> </p><br>
 
 
-<img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" />
+<p align="center"> <img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" /> </p> <br>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiyaakishore&label=Profile%20views&color=fe3410&style=flat" alt="arshiyaakishore" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arshiyaakishore&label=Profile%20views&color=fe3410&style=flat" alt="arshiyaakishore" /> </p> <br>

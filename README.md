@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Arshiya Kishore</h1>
-<h3 align="center">A budding computer engineer.</h3>
+<h3 align="center">A budding computer science engineer.</h3>
 
 
 - 🔭 I’m currently working on **ML and Data Analytics.**
 
 - 👯 I’m looking to collaborate on **ML and Data Science Projects**
+
+
+<p align="center"> <img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" /> </p> <br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,8 +30,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshiyaakishore" alt="arshiyaakishore" /></a> </p><br>
 
-
-<p align="center"> <img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" /> </p> <br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiyaakishore&label=Profile%20views&color=fe3410&style=flat" alt="arshiyaakishore" /> </p> <br>

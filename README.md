@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **ML and Data Analytics.**
 
-- 👯 I’m looking to collaborate on **ML and Data Science Projects**
+- 👯 I’m looking to collaborate on **Projects**
   
 
 <p align="center"> <img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" /> </p> <br>

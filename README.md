@@ -2,7 +2,7 @@
 <h3 align="center">A budding computer science engineer.</h3>
 
 
-- 🔭 I’m currently working on **ML and Data Analytics.**
+- 🔭 I’m currently working on **Development.**
 
 - 👯 I’m looking to collaborate on **Projects**
   

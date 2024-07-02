@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arshiya Kishore</h1>
-<h3 align="center">A budding computer science engineer.</h3>
+<h3 align="center">A Computer Science Under-Graduate who is learning and growing.</h3>
 
+- 🔭 I’m keenly interested in **Data Analytics.**
 
-- 🔭 I’m currently working on **Development.**
+- 🌱 I’m currently learning **MongoDB , Tensorflow , OpenCV, Web Development and Machine Learning.**
 
-- 👯 I’m looking to collaborate on **Projects**
+- 👯 I’m looking to collaborate on **Projects.**
+
+- 📫 How to reach me **arshiyakishore@gmail.com**
   
 
 <p align="center"> <img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" /> </p> <br>

@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **arshiyakishore@gmail.com**
   
+- 👨‍💻 All of my projects are available on [GitHub](GitHub)
 
 <p align="center"> <img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" /> </p> <br>
 

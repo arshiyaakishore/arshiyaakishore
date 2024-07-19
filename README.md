@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science Under-Graduate who is learning and growing.</h3>
 
 
-- 🔭 I’m keenly interested in **Data Analytics.**
+- 🔭 I’m keenly interested in **Data Analytics and Machine Learning.**
 
 - 🌱 I’m currently learning **MongoDB , Tensorflow , OpenCV, Web Development and Machine Learning.**
 

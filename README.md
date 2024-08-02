@@ -33,7 +33,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyaakishore&theme=highcontrast" alt="arshiyaakishore" /></p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<!--h2 align="center">🏆 GitHub Trophies</h2-->
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=IIIIIGODIIIII&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>

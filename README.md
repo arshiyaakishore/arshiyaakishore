@@ -28,7 +28,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,sklearn,anaconda,postgres,html,css,js,mongodb,git,github,vscode,matlab,arduino,django,opencv,postgres,pytorch,tensorflow,&perline=20)](#)
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arshiyaakishore&show_icons=true&theme=radical&locale=en&layout=compact" alt="arshiyaakishore" /></p> <br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arshiyaakishore&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="arshiyaakishore" /></p> <br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshiyaakishore&show_icons=true&theme=radical&locale=en" alt="arshiyaakishore" /></p><br>
 

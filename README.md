@@ -37,5 +37,5 @@
 
 <!-- graph -->
 <p>&nbsp;<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=arshiyaakishore&theme=react-dark"  alt="arshiyaakishore" /></p>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiyaakishore&label=Profile%20views&color=fe3410&style=flat" alt="arshiyaakishore" /> </p> <br>

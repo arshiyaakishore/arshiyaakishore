@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshiya Kishore</h1>
-<h3 align="center">A Computer Science Under-Graduate who is learning and growing.</h3>
+<h3 align="center">Crafting Code, Building Innovation, Delivering Excellence.</h3>
 
 
 - 🔭 I’m keenly interested in **Data Analytics and Machine Learning.**
@@ -37,7 +37,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshiyaakishore&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="arshiyaakishore" /></a> </p>
 
 <!-- graph -->
-<p>&nbsp;<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=arshiyaakishore&theme=react-dark"  alt="arshiyaakishore" /></p>
+<!--p>&nbsp;<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=arshiyaakishore&theme=react-dark"  alt="arshiyaakishore" /></p-->
 
 <!--views-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiyaakishore&label=Profile%20views&color=fe3410&style=flat" alt="arshiyaakishore" /> </p> <br>

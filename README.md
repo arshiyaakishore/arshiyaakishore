@@ -44,3 +44,8 @@
 
 <!--views-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiyaakishore&label=Profile%20views&color=fe3410&style=flat" alt="arshiyaakishore" /> </p> <br>
+
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=1000&section=footer"/>
+</p>

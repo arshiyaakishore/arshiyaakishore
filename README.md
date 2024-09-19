@@ -35,8 +35,8 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyaakishore&theme=highcontrast" alt="arshiyaakishore" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshiyaakishore&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="arshiyaakishore" /></a> </p>
->
- <img align=top flex-grow=1 src="[https://leetcard.jacoblin.cool/akshitapathak?theme=dark&font=Nunito&ext=heatmap](https://leetcard.jacoblin.cool/Arshiyaakishore?theme=dark&font=Nunito)">  
+
+ <img align=top flex-grow=1 src="[https://leetcard.jacoblin.cool/akshitapathak?theme=dark&font=Nunito&ext=heatmap](https://leetcard.jacoblin.cool/Arshiyaakishore?theme=dark&font=Nunito)"/>  
 
 
 <!-- graph -->

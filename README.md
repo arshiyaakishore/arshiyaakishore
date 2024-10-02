@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshiya Kishore</h1>
-<h3 align="center">Crafting Code, Building Innovation, Delivering Excellence.</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=266D2F&width=435&lines=Crafting+Code%2C+Building+Innovation%2C+Delivering+Excellence.)](https://git.io/typing-svg)
 
 - 🔭 I’m keenly interested in **Data Analytics and Machine Learning.**
 

@@ -29,6 +29,8 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arshiyaakishore&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="arshiyaakishore" /></p> <br>
 
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arshiyaakishore&theme=2077" height="180em" />
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshiyaakishore&show_icons=true&theme=radical&locale=en" alt="arshiyaakishore" /></p><br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyaakishore&theme=highcontrast" alt="arshiyaakishore" /></p>

@@ -3,7 +3,7 @@
 
 - 🔭 I’m keenly interested in **Data Analytics and Machine Learning.**
 
-- 🌱 I’m currently learning **MongoDB , Tensorflow , OpenCV, Web Development and Machine Learning.**
+- 🌱 I’m currently learning **Azure , Tensorflow , OpenCV, Web Development and Machine Learning.**
 
 - 👯 I’m looking to collaborate on **Projects.**
 
